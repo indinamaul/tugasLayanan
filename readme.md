@@ -3,6 +3,6 @@ Layanan dan Aplikasi Gasal 2023
 2 - Tugas Simple Web dengan Node.js  
 
 Nama Kelompok  
-Indiana Namaul Husnah  
-Bayuadi Prakoso Soemarso  
-Alfaris Virabwana  
+Indiana Namaul Husnah  5024201061
+Bayuadi Prakoso Soemarso  5024201075
+Alfaris Virabwana  5024201051
